@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+background-color:	#FFC0CB;
+}
+canvas {
+  display: block;
+  border-radius:30px;
+  box-shadow:5px 6px 7px hotpink;
+}
